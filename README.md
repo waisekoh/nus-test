@@ -7,4 +7,5 @@ Testing MD syntax
 * Point 1
 * Point 2
 
-### Smaller headline
+### Under the Sea
+![bikinibottom](bikini-bottom.jpg)
